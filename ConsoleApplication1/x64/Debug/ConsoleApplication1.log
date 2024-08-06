@@ -1,0 +1,10 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  ConsoleApplication1.cpp
+D:\PTTKTT\tantai2323\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(20,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\PTTKTT\tantai2323\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(33,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PTTKTT\tantai2323\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(35,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PTTKTT\tantai2323\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(37,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PTTKTT\tantai2323\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(79,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\PTTKTT\tantai2323\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(102,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PTTKTT\tantai2323\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(104,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ConsoleApplication1.vcxproj -> D:\PTTKTT\tantai2323\ConsoleApplication1\x64\Debug\thamlam.exe
